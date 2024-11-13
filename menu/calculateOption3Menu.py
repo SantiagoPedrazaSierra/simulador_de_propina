@@ -1,5 +1,7 @@
 import sys
+import os
 def design():
+        os.system('cls')
         opcion = 3
         print("""
         =============================================
